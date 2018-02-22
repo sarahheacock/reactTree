@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: WhiteSmoke;
+}
+
+svg {
+  background-color: White;
+  padding: 3%;
+  overflow: scroll;
+}
